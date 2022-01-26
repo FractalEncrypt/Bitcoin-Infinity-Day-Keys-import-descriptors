@@ -1,0 +1,2 @@
+importdescriptors \ '[{"desc": "tr(PrivKeyHere)#12345678", "timestamp": "now", "active": false, "internal": false, "next": 0}]'
+
