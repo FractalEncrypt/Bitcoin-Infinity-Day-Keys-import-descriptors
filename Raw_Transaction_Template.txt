@@ -1,0 +1,3 @@
+createrawtransaction \
+'[{"txid": "txid1", "vout": vout1}]' \
+'{"address1": Amount}'
